@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
-     "namabot": "Amelia Botz",
-     "nomerbot": "6285859108597",
+     "namalu" : "YOUSSEF-AL SOLTAN",
+     "nomerlu": "201288455338",
+     "namabot": "AL SOLTAN Botz",
+     "nomerbot": "201288455338",
      "gender" : "Female",
      "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
+     "namaDocument": "AL SOLTAN Botz",
      "joinGcExtream": true,
 
      "publik": true,
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "085156137901",
-     "Gopay" : "085156137901",
-     "Dana" : "085156137901",
-     "Ovo" : "085156137901"
+     "Shopee" : "201288455338",
+     "Gopay" : "201288455338",
+     "Dana" : "201288455338",
+     "Ovo" : "201288455338"
      },
      
      "setPrefix": {
@@ -61,7 +61,7 @@
      "setWelcome": {
      "autoWelcome": false,
      "welcomeType": "type3",
-     "background": "https://tinyurl.com/yxvl8h3a"
+     "background": "https://www.instagram.com/1y._.o2"
      },    
      
      "setMenu": "document",    
